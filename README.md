@@ -15,12 +15,10 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Software Service). 
-What is your favorite or useful Software Service such like notion, Boost note. <br />
-Anything is ok within related to software. <br />
-if you help my project, pls add your favorite software into the List of Hobby with <strong> its link </strong>.
-for example
-- [Notion](https://github.com/namekosiru/FavoriteSoftwareService.git)
+# Example. 
+あなたの好きな音楽を教えてください！
+Tell me what music you like!
 
 I'm looking forward to your effort!
 # List of Hobby
+jpop
