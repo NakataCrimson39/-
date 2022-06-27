@@ -19,7 +19,11 @@ To complete the assignment, please do the following:
 あなたの好きな音楽を教えてください！
 Tell me what music you like!
 
+I'm looking forward to your effort!
 # List of Hobby
+
+jpop
+
 
 1. Classic
 
