@@ -21,4 +21,25 @@ Tell me what music you like!
 
 I'm looking forward to your effort!
 # List of Hobby
+
 jpop
+
+
+1. Classic
+
+jpop
+
+
+- edm
+
+
+ - Brass Band
+
+- jpop
+
+
+- French electronic music
+
+- Vocaloid
+
+
